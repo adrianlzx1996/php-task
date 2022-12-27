@@ -1,0 +1,11 @@
+NESTED GRIDS
+============
+
+Display 6 images (class: img-responsive) again satisfying the following nested grid conditions
+
+Row 1: 6(a)-6(b)
+Row (a): 8-4
+Row (b): 4-8
+
+Each image should be able to click to view/enlarge.
+You can use any slideshow plugin.

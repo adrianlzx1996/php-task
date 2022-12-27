@@ -1,0 +1,12 @@
+Jquery Effects and Animation
+
+Reference:
+http://www.w3schools.com/jquery/jquery_ref_effects.asp
+https://api.jquery.com/category/effects/
+
+Display 3 jpg images on the screen.
+Above each image put a button, which will control the image below it.
+
+Button A: click to fadeout the image, click again to fade back in.
+Button B: click to slide up the image, click agian to slide back down.
+Button C: Click to move (animate()) button to left 300px, click again to restore position.

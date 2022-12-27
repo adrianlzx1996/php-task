@@ -1,0 +1,15 @@
+Reference:
+http://www.w3schools.com/php/php_sessions.asp
+
+[file1.php]
+Create a form that display 3 radio button choices.
+a) Apple
+b) Banana
+c) Orange
+
+Upon submission store the selected value into session.
+
+
+[file2.php]
+read stored values from session.
+display a simple HTML table showing how many times each item has been selected by users.

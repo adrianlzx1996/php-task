@@ -1,0 +1,10 @@
+BASIC GRIDS
+===========
+
+Display 6 images (class: img-responsive) using bootstrap in the following grid conditions.
+
+Row 1: 12
+Row 2: 2-2-2-2-4
+
+Each image should be able to click to view/enlarge.
+You can use any slideshow plugin.

@@ -1,0 +1,22 @@
+MENU
+====
+
+Create a menu with 3 layers with following structure.
+Refer to task3.jpg on how the result should look like.
+When in mobile view, they should be layered like task3-a.jpg.
+
+
+HOME
+PRODUCTS
+          > Women
+                    > Sweater
+                    > Blouse
+          > Men
+                    > Coat
+                    > Ties
+          > Children
+                    > Hoodie
+CONTACT US
+          > Contact Details
+          > Map
+          > Enquiry Form

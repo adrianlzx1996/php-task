@@ -1,0 +1,15 @@
+Reference:
+http://www.w3schools.com/php/php_sessions.asp
+
+[file1.php]
+Create a login form that prompts for username & password
+Checks and validate input cannot be blank.
+Upon submission store username to session session.
+redirect user to [file2]
+
+
+[file2.php]
+read stored username value and greet user.
+create a logout button that destroys session.
+redirect user to [file1]
+

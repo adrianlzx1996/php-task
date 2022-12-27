@@ -1,0 +1,22 @@
+Reference:
+http://www.w3schools.com/php/php_cookies.asp
+
+(You may duplicate earlier login screen for this task).
+
+[file1.php]
+Create a login form that prompts for username & password
+Add a "Remember Me" checkbox.
+Checks and validate input cannot be blank.
+
+If "checked", stores username & password to cookie.
+If user returns and cookie value found, pre-fill the form.
+
+If "unchecked" and user successfully login, 
+destroy/remove any saved cookie.
+
+redirect user to [file2]
+
+
+[file2.php]
+add a logout button to return to file1.
+

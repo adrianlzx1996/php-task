@@ -1,0 +1,17 @@
+Calculating Dice Probability
+
+PART A
+1. Generate a random number between 1 to 6 (inclusive).
+2. Repeat 1000 times, collect results in an array.
+3. Build a HTML table, showing how many times each number is rolled.
+
+PART B
+1. Roll 2 dice.
+2. Repeat 1000 times, collect results in an array.
+3. Build a HTML table, showing how many times each number is rolled.
+
+PART C
+1. Create an input field to allow user to define N-dice.
+2. Repeat 1000 times, collect results in an array.
+3. Build a HTML table, showing how many times each number is rolled.
+4. Modify your program to roll 100,000 times, and show the result as % instead of count.

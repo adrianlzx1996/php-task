@@ -1,0 +1,5 @@
+1. Read the article here, locate the section "Fibonacci's Rabbits": 
+http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibnat.html
+
+2. Write the recursion code to find out the answer after 1 year (12 months).
+Your input parameter must be configurable to allow user to to define his own number of months

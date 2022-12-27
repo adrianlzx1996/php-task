@@ -1,0 +1,45 @@
+TASK ONE (MYSQL)
+----------------
+
+Create a table named "player", with the following attributes:-
+username 	- varchar(10), primary key
+userpass	- varchar(10)
+fname		- varchar(30)
+lname		- varchar(30)
+age		- integer
+
+
+TASK TWO (PHP)
+--------------
+
+Design and create a page named "register.php" where new players can register. 
+This page will allow new records to be inserted into the "player" table.
+Apply any relevant input validations.
+
+
+TASK THREE (PHP)
+----------------
+
+Design and create a page named "login.php" where player can login. 
+This page will authenticate username and password with entries from the database.
+Upon successful login, the user will be greeted with his first name and last name.
+Apply any relevant security features.
+
+
+TASK FOUR (PHP)
+---------------
+
+Design and create a page named "player.php" where management can view records.
+This page will display a HTML table containing all registered players, arrange in neat order.
+Label the columns headers with "Username", "First Name", "Last Name", and "Age" accordingly.
+Player passwords should be omitted or masked.
+Apply any relevant HTML/CSS design techniques to make the listing easy to read.
+
+
+BONUS TASK (PHP)
+----------------
+
+this task is not related to the previous 4 tasks.
+design and create a page named "upload.php" where users can upload images onto the webserver.
+uploaded files will be given a random 8-character filename. 
+create another page named "gallery.php" where users can see all the files uploaded.
